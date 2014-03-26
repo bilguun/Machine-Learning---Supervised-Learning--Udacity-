@@ -12,5 +12,10 @@ Loop:
     - STOP
     
     
+Best attribute -> Maximazie-> Gain(S,A) = Entropy(S) - sum(|Sv|*Entropy(Sv)/|S|) on v
+                  S - Training Examples, A - attribute
+               
+               
+    
     
   
