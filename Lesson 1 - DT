@@ -1,1 +1,16 @@
 Lesson 1 - Decision Trees
+
+ID3 Algorithm
+
+Loop:
+  - A <- Best Attribute
+  - Assign A as decision attribute for Node
+  - For each Value of A
+    - Create descendent of Node
+  - Sort Training Examples to leaves
+  - If examples Perfectly Classified
+    - STOP
+    
+    
+    
+  
